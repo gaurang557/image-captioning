@@ -1,5 +1,4 @@
 numpy
-os
 keras
 tensorflow
 Click==7.0
